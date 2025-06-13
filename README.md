@@ -43,16 +43,7 @@ cp .env.example .env
 ```bash
 npm start
 ```
-
-## Configuration ⚙️
-
-Edit the `.env` file with your specific settings:
-
-```ini
-WHATSAPP_API_KEY=your_api_key_here
-AI_MODEL=text-davinci-003
-LANGUAGE=en
-```
+ 
 
 ## Usage 📲
 
