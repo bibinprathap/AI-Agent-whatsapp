@@ -1,0 +1,18 @@
+{
+    "name": "whatsapp-ai-agent",
+    "version": "1.0.0",
+    "description": "is it possible to send messages to whatsapp using ai",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@open-wa/wa-automate": "^4.76.0",
+        "axios": "^0.24.0",
+        "better-sqlite3": "^7.5.0",
+        "chrome-paths": "^1.0.1"
+    }
+}
