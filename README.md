@@ -2,7 +2,7 @@
 
 ![Whatsapp](Whatsapp.png) 
 
-```markdown
+ 
 # AI Agent for WhatsApp 🤖💬
 
 An AI-powered WhatsApp agent that leverages advanced natural language processing to provide intelligent responses and automate conversations.
@@ -81,7 +81,7 @@ For support or feature requests, please [open an issue](https://github.com/bibin
 ---
 
 **Let's build the future of conversational AI together!** 🚀
-```
+ 
 
 You can copy this directly into your README.md file. I've included:
 - Clear headings with emojis for visual organization
