@@ -2,7 +2,8 @@
 
 ![Whatsapp](Whatsapp.png) 
 
- 
+ ![Application Demo](https://github.com/bibinprathap/AI-Agent-whatsapp/blob/master/whatsapp-chat-ai-agent.gif?raw=true)
+
 # AI Agent for WhatsApp 🤖💬
 
 An AI-powered WhatsApp agent that leverages advanced natural language processing to provide intelligent responses and automate conversations.
