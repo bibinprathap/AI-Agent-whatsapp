@@ -10,6 +10,11 @@ An AI-powered WhatsApp agent that leverages advanced natural language processing
 
 ## Features ✨
 
+- **Private Document Chat on WhatsApp with AI & User Authentication**:  Securely chat with AI while keeping documents private.
+
+- **Authenticate users, protect data, and empower conversations with your private files**:  Ensure only authorized users access sensitive information.
+
+- **Source Document Retrieval for AI Responses**:  Trace AI-generated answers back to the original document for transparency and verification.
 - **Natural Language Understanding**: Processes user messages with AI comprehension
 - **Automated Responses**: Provides instant replies to common queries
 - **Context Awareness**: Maintains conversation context for more natural interactions
